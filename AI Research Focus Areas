@@ -1,0 +1,18 @@
+AI RESEARCH FOCUS AREAS
+
+In the vast landscape of AI research, several focus areas have emerged. These include (Stone et al., 2016):
+
+Natural Language Processing - is the branch of AI that focuses on giving a machine the ability to analyze and understand human texts and languages. Some of the researches done in this branch is question answering, decision-making, information retrieval, etc. (Information Sciences Institute, 2023.)
+
+Large-Scale Machine Learning - one of the problems machine learning is facing now is the scale of the data set it can handle, when it comes to handling large data sets AI may face several challenges. That’s why researchers are trying to improve the scalability of machine learning to be able to handle extremely large amounts of data.
+
+Deep Learning - this is a subfield of machine learning but utilizes artificial neural networks instead, inspired by a human brain. Compared to machine learning, it can analyze more complex problems and data sets. Researchers are trying to improve its performance in different areas such as audio, speech, natural language processing, etc.
+
+Multimodal AI - an AI that can analyze multiple inputs or data types (such as photos, speech, text, and numerical data). It is used to detect deepfakes, misinformation, multimedia analysis, face recognition, and several media.
+
+Computer Vision - due to the rise of deep learning, computer vision have been improved. It can now detect visual classification tasks easily. Current research on this area is focused on automatic video and image captioning.
+
+Robotics - the robotic field has been greatly improved after years of research. Robots back then can only perform slow movement and non-complex tasks. But nowadays, they are able to perform complex movements such as dancing, going outside to do tasks, etc. Research in this field is to improve the robot’s perception, vision and learning abilities.
+
+AI Fairness - researchers have also been implementing fairness on AI, letting them detect biases, understand cultural values, preferences, and prevent misinformation. Analyzing literature and studies on gender and cultural biases.
+Researchers strive to push the boundaries of AI, making breakthroughs that redefine what is possible and opening doors to exciting new applications.
