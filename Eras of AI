@@ -1,0 +1,129 @@
+To appreciate the evolution of AI, it is crucial to familiarize ourselves with the eras of AI. 
+
+
+Precursor (Antiquity)
+
+The seeds of modern Artificial Intelligence (AI) were planted by philosophers, alchemists, and writers who have characterized that human thought can be turned into mechanical manipulation of symbols. Originated in antiquity with myths, tales, and rumors about man-made intelligent or sentient beings created by great craftsmen.
+
+Myths and Legends
+
+In Greek Mythology, there was a giant built of bronze named “Talos” who acted as a protector for the island of Crete. He made three daily loops around the island's perimeter while hurling stones at the invading ships. 
+
+Another legend was the story of Pygmalion, a renowned king and sculptor, who fell in love with his sculpture named “Galatea” made of ivory. The reason for his creation was he became disgusted with the women in his society who prostituted themselves and decided to create a perfect woman in his likeness. 
+
+In Eleazar ben Judah of Worms writings, a Golem could be attained by inserting a piece of paper with any of God's names on it into the mouth of the clay figure. 
+
+Alchemy
+
+The alchemist Paracelsus, who was born in Switzerland, describes a method in his book Of the Nature of Things that he says can create a "artificial man" The mixture can be made into a living child by putting "man's sperm" in horse dung and feeding it "Arcanum of Man's blood" after 40 days.
+
+In Islam alchemical texts primarily in the works of Jabir ibn Hayyan, Takwin, the artificial creation of life was a frequent topic on those texts. This creation ranges from artificial plants to animals.
+
+In Johann Wolfgang von Goethe's Faust: The Second Part of the Tragedy, an alchemically created homunculus who is destined to live forever in the flask in which he was created tries to give birth to a whole human body. But as soon as this change starts, the flask breaks and the homunculus perishes.
+
+Automation
+
+The religious statues of ancient Egypt and Greece are the earliest automata that have ever been discovered. The faithful thought that the craftsmen had endowed these figures with incredibly genuine minds, capable of intelligence and emotion.
+
+These fabled automata were believed to have the supernatural capacity to respond to questions throughout the early modern era. Roger Bacon, a proto-protestant alchemist of the late medieval era, is said to have created these automatas called “brazen heads.”
+
+Modern Fiction
+
+By the 19th century, concepts of artificial men and thinking machines had been developed in literature Mary Shelley's Frankenstein or Karel apek's R.U.R. (Rossum's Universal Robots), speculation Samuel Butler's "Darwin among the Machines", and actual events Edgar Allan Poe's "Maelzel's Chess Player",
+
+
+
+Formal Reasoning
+
+The premise behind artificial intelligence is that human thought can be mechanically reproduced. Mechanical or "formal" reasoning has long been the subject of study. In the first millennium BCE, philosophers from China, India, and Greece all created organized techniques for formal deduction. Ideas that helped in creation of AI we now know today are Aristotle’s reasoning that developed into Syllogism - a type of logical argument that uses deductive reasoning to draw a conclusion from two declared or assumed to be true propositions, Euclid’s Elements which was the foundation of Model of Reasoning, al Kwharizmi’s algebra that helped create algorithms.
+
+Leibniz, Thomas Hobbes, and René Descartes all investigated the idea that all rational thought might be made to be as systematic as algebra or geometry in the 17th century.  Hobbes famously wrote in Leviathan, such that "there would be no more need for disputation between two philosophers than between two accountants," reducing debate to math.
+
+The crucial discovery that made artificial intelligence seem realistic in the 20th century came from the study of mathematical logic. Works like Boole's The Laws of Thought and Frege's Begriffsschrift had laid the groundwork for this. In 1913, Russell and Whitehead published their magnum opus, the Principia Mathematica, which provided a formal study of the principles of mathematics. 
+
+With Russel and Whitehead’s success, he challenged mathematicians saying, “can all of mathematical reasoning be formalized?" Their response was surprising in two different ways. They began by demonstrating that mathematical logic had its limitations. Second, and more importantly for AI, their research demonstrated that, under these constraints, any type of mathematical reasoning might be automated.
+
+AI Foundations (1952-1956)
+
+A few scientists from a number of disciplines (mathematics, psychology, engineering, economics, and political science) started debating the viability of developing an artificial brain in the 1940s and 1950s. In 1956, the academic discipline of artificial intelligence research was established.
+
+Cybernetics and early neural networks
+
+	Neurological studies in recent years have demonstrated that the brain is an electrical network of neurons that fires in pulses of all-or-nothing activity. The theory of computing developed by Alan Turing demonstrated that any type of computation may be stated digitally. These concepts' striking resemblance made it seem like an electronic brain might be feasible to create.
+
+In 1943, Walter Pitts and Warren McCulloch examined networks of hypothetical artificial neurons and demonstrated how they could carry out straightforward logical operations. They were the first to define what later researchers would refer to as a neural network.
+
+Young Marvin Minsky, a graduate student at the time, was one of the pupils influenced by Pitts and McCulloch. He was 24 years old at the time. He created the first neural network system, the SNARC, in 1951 (together with Dean Edmonds). Over the next 50 years, Minsky would become one of the most significant figures in AI.
+
+Turing Test
+In 1950 Alan Turing published a landmark paper in which he speculated about the possibility of creating machines that think. He noted that "thinking" is difficult to define and devised his famous Turing Test. If a machine could carry on a conversation (over a teleprinter) that was indistinguishable from a conversation with a human being, then it was reasonable to say that the machine was "thinking".
+
+Game AI
+
+	Checkers was the first program to demonstrate that computers can learn and not just perform what they are programmed to do. Checkers attracted media attention and learned to play at a level high enough to challenge a decent amateur human player (Samuel 1960).
+
+Logic Theorist 
+
+38 theorems from Principia Mathematica have been proved by the logic theorist, who also introduced some crucial Heuristics, list processing, "reasoning as search," and other artificial intelligence principles are examples. (Newell)et al. 1962).
+
+Dartmouth Conference
+
+The 1956 Dartmouth conference, which gave AI its name and purpose. The phrase "artificial intelligence," which McCarthy first used, is now the name of a scientific subfield. The conference's main claim was that "Every aspect of any other feature of learning or intelligence should be accurately described so that the machine can simulate it" (Russell and Norvig 2016). Ray Solomonoff, Oliver Selfridge, Trenchard More, Arthur Samuel, Herbert A. Simon, and Allen Newell were among the attendees.
+
+Symbolic AI (1956-1974)
+A few scientists intuitively understood that the manipulation of symbols may very well represent the essence of the human mind when access to digital computers became feasible in the middle of the 1950s. They understood that a machine that could manipulate numbers could also manipulate symbols. This was a novel method for building intelligent devices.
+
+Reasoning as search
+The same fundamental algorithm was utilized by several early AI programs. They took small steps, like looking through a maze, in order to obtain some goal (like winning a game or proving a theorem), going backwards everytime they came to a dead end. The phrase "reasoning as search" described this paradigm.
+
+An application of this paradigm was the first versatile mobile robot with reasoning capabilities was Shakey the Robot. This initiative brought together robotics research, computer vision research, and natural language processing research, resulting in being the first undertaking that integrated reason and deed (Bertram 1972).
+
+Natural Language
+To enable computers to converse in natural languages like English is a key objective of AI research. 
+
+A natural language processing program called ELIZA mimicked a doctor. ELIZA answered inquiries in a way that a therapist would. Until the interaction reached its limits and turned into nonsense, some users believed they were speaking with another human being (Weizenbaum 1966).
+
+Micro-worlds
+The MIT AI Laboratory's Marvin Minsky and Seymour Papert advocated that AI research should concentrate on micro-worlds, which are intentionally simplistic scenarios. They emphasized that fundamental concepts were frequently better comprehended with spartan models, such as frictionless planes or completely rigid bodies, in successful sciences like physics.
+
+The world of blocks came to life at the same moment when Minsky and Papert created a robot arm that could stack blocks. Terry Winograd's SHRDLU, which could plan and carry out activities and communicate in everyday English words, was the pinnacle of the micro-world program.
+
+Automata
+The WABOT project was started at Waseda University in Japan in 1967, and the WABOT-1, the first full-scale "intelligent" humanoid robot, or android, was finished in 1972. With the use of touch sensors, its limb control system enabled it to move things with its hands and lower limbs while walking. Using external senses, fake eyes and ears, and its vision system, it was able to determine the distances and directions to things. Additionally, using an artificial mouth and its dialogue system, it was able to speak Japanese with a human.
+
+First AI Winter (1974-1980)
+
+	AI faced criticisms and financial losses in the 1970s. Researchers in AI had undervalued how challenging their issues were. Because of their extreme optimism, expectations were set unrealistically high, and funding for AI vanished when the anticipated results did not emerge.
+
+	These were the reasons:
+
+Lack of processing speed and memory prevented the use of the computer for anything genuinely beneficial. 
+In 1972, Richard Karp demonstrated that many issues are likely only solvable in exponential time (in terms of the amount of the inputs), building on Stephen Cook's 1971 argument. Except in the case of small situations, finding optimal solutions to these problems takes unfathomable amounts of computer time. 
+Numerous crucial applications of artificial intelligence, such as vision and natural language, necessitate a vast amount of knowledge about the outside world in order for the computer to have any chance of understanding what it might be looking at or discussing. For this to be possible, the program must possess a great deal of the same knowledge about the world as a young child.
+Computers can prove theorems and solve geometry problems relatively easily, but it is quite challenging for them to perform seemingly basic tasks like facial recognition or navigating a room without running into anything. This explains why robotics and vision research had not advanced much by the middle of the 1970s.
+John McCarthy and other logic-based AI researchers found that they could not portray routine deductions that incorporated planning or default reasoning without altering the structure of logic.
+The organizations that provided financing for AI research (such as the British government, DARPA, and NRC) were upset with the lack of advancement and eventually stopped providing practically all of it. The trend started in 1966 when the ALPAC report criticizing machine translation attempts was published. After spending $20,000,000, the NRC stopped all support.
+A number of philosophers vigorously refuted the claims being made by AI researchers. John Lucas was one of the first to assert that Gödel's incompleteness theorem showed that a formal system (such a computer program) could never see the truth of some assertions, whereas a human being could. Hubert Dreyfus claimed that human reasoning actually entailed very little "symbol processing" and a considerable lot of embodied, intuitive, unconscious" thinking, mocking the shattered promises of the 1960s and criticizing the assumptions of AI.
+
+BOOM (1980-1987)
+
+Expert systems
+
+An expert system is a computer software that uses logical rules deduced from the expertise of experts to answer questions or solve issues related to a particular field of knowledge. The first illustrations were created by Edward Feigenbaum and his pupils. Beginning in 1965, Dendral used spectrometer results to identify chemicals. The 1972 invention of MYCIN allowed for the diagnosis of blood infections. They provided evidence that the strategy was workable.
+
+Knowledge Revolution
+
+The 1980s also saw the development of Cyc, the first effort to directly target the issue of commonsense knowledge by building a sizable database that would store all the banal knowledge that the ordinary person possesses. The project's founder and leader, Douglas Lenat, stated that there is no fast cut and that humans must educate robots by hand, one notion at a time, how to understand human concepts. It was anticipated that the project would take decades to complete.
+
+The money returns: the Fifth Generation project
+
+For the Fifth Generation Computer Project, the Japanese Ministry of International Trade and Industry allocated $850 million in 1981. They decided on Prolog as the main computer language for the project. Their goals were to write programs and create robots that could communicate, translate languages, decipher images, and reason like humans.
+
+The revival of connectionism
+
+According to Hopfield (1982), a particular type of neural network known as "Hopfield net" learned and processed information in a novel way. "Backpropagation" and the "Hopfield net" (Rumelhart et al. 1985) revived the connectionism branch of AI.
+
+Machine Learning and Deep Learning (1987-Present)
+
+Deep Learning
+DL is a branch of ML and AI. A multi-layer neural network architecture was introduced by DL. various degrees of abstraction that learns data representations (LeCun et al. 2015). architectures for DL neural networks consist of convolutional neural networks, deep belief networks, recurrent neural networks, and (CNN) Networks. 
