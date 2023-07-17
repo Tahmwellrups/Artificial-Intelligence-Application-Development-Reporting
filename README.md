@@ -15,3 +15,5 @@
 7. Identify AI research focus areas. - Tupas, Ramwell
 
 8. Identify real-world AI applications, some platforms, and tools. - Arellano, Micko James
+
+Presentation link: https://www.canva.com/design/DAFjcguhnKc/0AnXujaFozriQCkYwD4n2w/edit?utm_content=DAFjcguhnKc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
