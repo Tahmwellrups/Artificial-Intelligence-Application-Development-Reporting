@@ -1,6 +1,6 @@
 # Artificial-Intelligence-Application-Development-Reporting
 
-1. Explain what artificial intelligence (AI) is. - Nifas, Hendrickson 
+1. Explain what artificial intelligence (AI) is. - Tupas, Ramwell 
 
 2. Describe the eras of AI. - Fernandez, Tristan Jay
 
