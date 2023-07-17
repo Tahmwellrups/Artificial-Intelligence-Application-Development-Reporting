@@ -1,0 +1,63 @@
+TYPES AND APPROACHES OF AI
+
+Now, let us delve into the various types and approaches of AI. AI can be broadly categorized into three types: Narrow AI, General AI, and Superintelligent AI. Narrow AI, also known as Weak AI, is designed to perform specific tasks efficiently, such as voice recognition or image classification. General AI, on the other hand, aims to exhibit human-like intelligence across a broad range of tasks. Lastly, Superintelligent AI refers to highly advanced AI systems that surpass human intelligence in almost every aspect.
+
+Within these types, AI can be approached through different methodologies, including rule-based systems, genetic algorithms, expert systems, natural language processing, and machine learning. Machine learning, in particular, has gained tremendous traction in recent years, with its subfields of supervised learning, unsupervised learning, and reinforcement learning empowering AI systems to learn from data and improve their performance over time.
+
+BASED ON CAPABILITIES
+Narrow AI or Weak AI
+	Narrow AI refers to AI systems that are designed to perform specific tasks or functions within a limited domain. These systems are trained to excel in one particular area and are not capable of generalizing their knowledge or skills to other domains.
+EXAMPLES:
+Apple Siri
+Google translate
+Playing chess
+Purchasing suggestions on e-commerce site
+Self-driving cars 
+Speech recognition
+Image recognition
+
+General AI or Strong AI
+General AI refers to AI systems that possess the ability to understand, learn, and apply knowledge across multiple domains, similar to human intelligence. These systems can perform any intellectual task that a human being can do. General AI would be capable of reasoning, understanding natural language, learning new concepts, and adapting to various situations. However, achieving true General AI remains a significant challenge, and no systems have yet reached this level of capability.
+
+Super AI (also known as Artificial Superintelligence)
+Super AI refers to AI systems that surpass human intelligence across almost all domains and tasks. These systems would possess an intellect far superior to that of the most brilliant human minds and could potentially outperform humans in virtually every intellectual endeavor. Super AI would have the ability to rapidly improve itself, leading to an exponential increase in its capabilities. The concept of Super AI raises significant ethical and existential questions, as its potential impact on society and human existence would be profound.
+
+BASED ON CAPABILITIES
+Reactive Machines
+Reactive machines refer to artificial intelligence systems that operate based on a set of predefined rules and inputs without the need for any internal state or memory. These machines react to immediate sensory inputs and produce outputs based solely on the current input. They do not have the ability to store or recall past information, nor do they possess the capability to plan or strategize for the future. Reactive machines are primarily concerned with the present moment and responding to the stimuli they receive.
+
+Limited Memory
+Limited memory, also known as bounded rationality, is a concept in artificial intelligence and cognitive science that describes the notion of systems or agents having constraints on their memory capacity. In the context of AI, it refers to machines or algorithms that possess some form of memory but with a finite capacity. This limited memory may restrict their ability to retain and process large amounts of information or to store data for extended periods. As a result, these systems must make decisions and operate within the constraints of their available memory resources.
+
+Theory of Mind
+Theory of mind refers to the cognitive ability to understand and attribute mental states, such as beliefs, desires, intentions, and emotions, to oneself and others. It involves recognizing that individuals have thoughts, feelings, and perspectives that may differ from one's own. In the context of AI, theory of mind pertains to developing machines or algorithms that can infer and understand the mental states of human agents they interact with. This understanding enables the AI system to better predict and respond to human behavior, intentions, and needs.
+
+Self-Awareness
+Self-awareness is the ability to recognize and have a conscious understanding of one's own existence, sensations, thoughts, and emotions. It involves having a sense of individuality and introspection. While self-awareness is commonly associated with human consciousness, in the field of AI, self-awareness refers to the potential development of machines or algorithms that possess a level of consciousness or reflective capacity. This would mean that the AI system has knowledge of its own internal states, processes, and capabilities, and is able to reason about itself as a distinct entity. However, achieving true self-awareness in AI remains a subject of ongoing research and debate.
+
+APPROACHES OF AI
+Thinking Humanly (The Cognitive Approach)
+The thinking humanly or cognitive approach in artificial intelligence (AI) and machine learning draws inspiration from human thinking and learning patterns. Its objective is to create AI systems that can replicate human thought processes and behaviors, including perception, reasoning, and problem-solving.
+
+Instead of solely relying on statistical or mathematical models, the cognitive approach places significance on comprehending human cognition and finding ways to replicate it in machines.
+
+An instance of the cognitive approach can be observed in the creation of expert systems. These computer programs are designed to tackle intricate problems within specific domains, like medical diagnosis or financial planning.
+
+Acting Humanly (The Turing Test Approach)
+The approach of acting humanly, also known as the Turing Test approach, is centered around creating artificial intelligence (AI) and machine learning systems that can replicate human-like behavior and thought processes to the extent that they become indistinguishable from humans.
+
+This approach derives its name from the Turing Test, which was proposed by Alan Turing, a prominent British mathematician and computer scientist. According to this test, a machine can be deemed intelligent if it can successfully deceive a human evaluator into believing that it is another human during a natural language conversation.
+
+The Turing Test involves the evaluator engaging in a conversation with both a machine and a human without knowing their identities. If the machine can convincingly pass as the human, leading the evaluator to mistake it for a fellow human, it is considered to have passed the Turing Test.
+
+The Turing Test approach has paved the way for the development of various AI technologies, including chatbots, virtual assistants, and recommendation engines, that aim to emulate human-like interaction and decision-making processes.
+
+Thinking Rationally (The Laws of Thought Approach)
+The rational thinking or laws of thought approach in artificial intelligence (AI) and machine learning relies on formal logic and reasoning principles. Its objective is to create AI systems that can engage in logical reasoning and make decisions based on predefined rules.
+
+In the laws of thought approach, AI systems are programmed to engage in deductive reasoning. They begin with a set of premises and utilize logical rules to reach conclusions. This approach is commonly employed in expert systems, where a knowledge base consisting of facts and rules is utilized to solve intricate problems within specific domains.
+
+Acting Rationally (The Rational Agent Approach)
+	The approach of acting rationally also referred to as the rational agent approach, is focused on creating artificial intelligence (AI) and machine learning systems that are capable of acting intelligently in order to achieve their objectives. This approach is rooted in the concept of rationality, which involves making decisions that maximize the likelihood of accomplishing goals, given the available information and resources.
+
+The rational agent approach highlights the significance of designing agents that can reason effectively in uncertain situations and adapt to changing environments, rather than merely following pre-established rules.
